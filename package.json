@@ -1,0 +1,7 @@
+{
+    "name": "rot.js.tutorial",
+    "main": "index.html",
+    "scripts": {
+        "start": "nw ."
+    }
+ }
