@@ -2,6 +2,7 @@
     "name": "rot.js.tutorial",
     "main": "index.html",
     "scripts": {
-        "start": "nw ."
+        "start": "nw . --mixed-context",
+        "debug": "nw . --mixed-context --remote-debugging-port=9222"
     }
  }
